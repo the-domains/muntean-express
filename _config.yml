@@ -1,20 +1,25 @@
-name: MUNTEAN.EXPRESS
-favicon: null
-layout_spectrum: 1
-title: MUNTEAN.EXPRESS
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+typography_spectrum: 0.5
+color:
+  brandColors: []
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 opengraph:
   image: null
   type: null
   appId: null
-purpose:
-  - name: engagement
-    item: null
-    url: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: MUNTEAN.EXPRESS
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: MUNTEAN.EXPRESS
+description: Same Day Delivery
+purpose: []
